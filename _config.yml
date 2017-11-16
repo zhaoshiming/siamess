@@ -1,5 +1,5 @@
 baseurl: /
-markdown: kramdown
+markdown: converter
 
 # kramdown:
 #   input: GFM
