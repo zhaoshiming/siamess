@@ -1,9 +1,10 @@
-　---
-　layout: default
-　title: 你好，喵喵
-　---
-　#{{ page.title }}
-　##支持Markdown的博客，喵！
+---
+layout: default
+title: 你好，喵喵
+---
+
+
+##支持Markdown的博客，喵！
 
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
