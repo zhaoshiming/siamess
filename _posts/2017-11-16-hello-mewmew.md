@@ -44,7 +44,7 @@ title: 你好，喵喵
 
 ## 关于作者
 
-```javascript
+```javascript 
   var ihubo = {
     nickName  : "草依山",
     site : "http://jser.me"
