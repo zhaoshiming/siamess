@@ -1,5 +1,7 @@
 baseurl: /
 markdown: kramdown
 
-# kramdown:
-#   input: GFM
+kramdown
+  input:         GFM
+  auto_ids:      true
+  auto_id_prefix:'id-'
